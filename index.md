@@ -1,43 +1,43 @@
-## Welcome to GitHub Pages
+## ABOUT THE PROJECT
 
-You can use the [editor on GitHub](https://github.com/ash27023231/usvisaapplications-cs6630.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In this project we have made visualizations by which we can see a trend in the number of Applications filed over the years. This includes mainly few common visas in which maximum people file such as : F1, H1B, L1 etc. so as to show the trend. The designs also tells us about the Economic Sectors in which the maximum number of visa applications are filed. Overall we can infer from the designs what the trend is currently and will be worth reckoning to know more details. Our goal is to make visualizations synchronised with each other so that it’s easy to deduce the learning from it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project Resources
+
+1. [Project Website]()
+
+2. [Screencast]()
+ 
+3. [Process Book]()
+
+### Data Source + Processing
+
+Our Dataset has appropriate data from 2011 to 2016. It also includes information on employer, position, wage offered, job posting history, employee education and past visa history, associated lawyers, and final decision.
+
+The complete link to our dataset is provided below: 
+[KAGGLE DATA SOURCE](https://www.kaggle.com/ambarish/eda-us-permanent-visas-with-feature-analysis/data)
+ 
+There were many redundant and duplicate columns present in the original dataset. We took only distinct columns in our final dataset which we plan to use towards our project.
+Also, there were many rows which had Null values for some of the attributes/columns. We did not include those records in our final dataset as well.
+Moreover, there were many columns in the original dataset which had no data. We did not include those columns as well.We did many data validation checks also on our dataset and chose only those records which had correct values for Dates, numbers in Salary and text in Employer_Name, Country_Of_Citizenship etc.
 
 
+### Visualization Designs Implemented
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#1. MAP CHART
 
-### Jekyll Themes
+The first chart we will draw is Map Chart. In this ,we are going to show total number of applications statewise displayed by shade of the color. Darker the color it means more is the number of applications in that. Apart from this, we will have a tooltip on each state showing the count of applications shown with a normal bar chart. We can also filter the year using the year wise filter which is placed just above it. Map tells us the number of state-wise applications seen from the first expression.   
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ash27023231/usvisaapplications-cs6630.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#2. LINE CHART
 
-### Support or Contact
+In this chart, we have apply the ScrollyTelling method which is being implemented to show the number of applications of each Case Status such as Certified, Denied , Certified- Expired with respect to the years from 2011-2016.  We will make sure that lines are being identified individually so we have given a different color to each line with legend showing the text name of that line.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#3. STACKED BAR CHART
 
+This is our third design in which we will show the data of different economic sectors over 5 years using the stacked bar chart of each case status (Certified, Denied, Withdrawn and Certified Expired). This helps in showing the data visualization for the different sectors as that’s an important attribute to showcase which sector visa is getting Certified ,Denied, Withdrawn and Certified-Expired.
 
-CS6630 NASA Astronomical Dataset
-This project deals with the visualization of Meteorite and Fireball events observerd in the past that have happened on Earth.
+#4. PARALLEL COORDINATE CHART
 
-Project Links
+This was the last design which we will use to show the data for different attributes at the same particular time and with the use of brush we can easily see the focus on that particular thing which we want to see.
 
-The Project Website has the live visualization.
-
-The Process Book has the details on the visualization and its interaction.
-
-The Screencast has a video demonstration of the visualization.
-
-Data Processing
-
-The data is obtained from NASA’s Open Data Portal and The Center for Near Earth Studies, which details every event. The data can be obtained in various file formats, which helps reduce the processing time required for academic projects.
-
-Visualization
-
-We have three main forms of visualizations in order to represent the dataset and provide access to different comparisions between the datasets. You can explore more here (https://rajathjavali.github.io/cs6630nasaproject/finalproject/). Please use Google Chrome to get the best experience.
-
-The main form of visualization is a MAP with locations of various events highlighted. Interaction with the markers help in getting details of individual event as a tooltip.
-
-The second visualization represents the timeline, encoding the number of events over the years. Interaction with this visualization effectively showcases the changes on to the MAP, indicating all such events in the selected year/years.
-
-The third visualization helps with analysing the numeric data and also look at other details of each such events. We have a semantic zooming table, which indicates the main categories initially and displaying the interested details on interaction. This is also linked to a chart to compare the number of events for certain columns of data.
+Thank You For Visiting Our Webpage!!!
