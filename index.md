@@ -1,4 +1,4 @@
-## ABOUT THE PROJECT
+# ABOUT THE PROJECT
 
 In this project we have made visualizations by which we can see a trend in the number of Applications filed over the years. This includes mainly few common visas in which maximum people file such as : F1, H1B, L1 etc. so as to show the trend. The designs also tells us about the Economic Sectors in which the maximum number of visa applications are filed. Overall we can infer from the designs what the trend is currently and will be worth reckoning to know more details. Our goal is to make visualizations synchronised with each other so that it’s easy to deduce the learning from it.
 
