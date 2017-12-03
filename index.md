@@ -4,9 +4,9 @@ In this project we have made visualizations by which we can see a trend in the n
 
 ## Project Resources
 
-1. [Project Website]()
+1. [Project Website](https://sanketd11.github.io/dataviscourse-pr-US-VISA-Applications-Visualization)
 
-2. [Screencast]()
+2. [Screencast](https://drive.google.com/open?id=1h2e0DlhEO2k4XbED2fXFwFDNtSV0ULAk)
  
 3. [Process Book](https://docs.google.com/presentation/d/1XNd-dSseqlaVVg-gSXqlNIz2Slu0swGaUGO1_7jmgsQ/edit#slide=id.g2a011bb1f0_0_14)
 
