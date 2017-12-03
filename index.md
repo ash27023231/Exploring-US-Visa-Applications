@@ -32,7 +32,7 @@ The first chart we will draw is Map Chart. In this ,we are going to show total n
 
 In this chart, we have apply the ScrollyTelling method which is being implemented to show the number of applications of each Case Status such as Certified, Denied , Certified- Expired with respect to the years from 2011-2016.  We will make sure that lines are being identified individually so we have given a different color to each line with legend showing the text name of that line.
 
-#### STACKED BAR CHART
+### STACKED BAR CHART
 
 This is our third design in which we will show the data of different economic sectors over 5 years using the stacked bar chart of each case status (Certified, Denied, Withdrawn and Certified Expired). This helps in showing the data visualization for the different sectors as that’s an important attribute to showcase which sector visa is getting Certified ,Denied, Withdrawn and Certified-Expired.
 
