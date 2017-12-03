@@ -28,15 +28,15 @@ Moreover, there were many columns in the original dataset which had no data. We 
 
 The first chart we will draw is Map Chart. In this ,we are going to show total number of applications statewise displayed by shade of the color. Darker the color it means more is the number of applications in that. Apart from this, we will have a tooltip on each state showing the count of applications shown with a normal bar chart. We can also filter the year using the year wise filter which is placed just above it. Map tells us the number of state-wise applications seen from the first expression.   
 
-2. ###LINE CHART
+### LINE CHART
 
 In this chart, we have apply the ScrollyTelling method which is being implemented to show the number of applications of each Case Status such as Certified, Denied , Certified- Expired with respect to the years from 2011-2016.  We will make sure that lines are being identified individually so we have given a different color to each line with legend showing the text name of that line.
 
-3. ####STACKED BAR CHART
+#### STACKED BAR CHART
 
 This is our third design in which we will show the data of different economic sectors over 5 years using the stacked bar chart of each case status (Certified, Denied, Withdrawn and Certified Expired). This helps in showing the data visualization for the different sectors as that’s an important attribute to showcase which sector visa is getting Certified ,Denied, Withdrawn and Certified-Expired.
 
-4. ###PARALLEL COORDINATE CHART
+### PARALLEL COORDINATE CHART
 
 This was the last design which we will use to show the data for different attributes at the same particular time and with the use of brush we can easily see the focus on that particular thing which we want to see.
 
