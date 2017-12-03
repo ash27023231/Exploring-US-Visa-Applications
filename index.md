@@ -24,7 +24,7 @@ Moreover, there were many columns in the original dataset which had no data. We 
 
 ## Visualization Designs Implemented
 
-1. ###MAP CHART
+ ###MAP CHART
 
 The first chart we will draw is Map Chart. In this ,we are going to show total number of applications statewise displayed by shade of the color. Darker the color it means more is the number of applications in that. Apart from this, we will have a tooltip on each state showing the count of applications shown with a normal bar chart. We can also filter the year using the year wise filter which is placed just above it. Map tells us the number of state-wise applications seen from the first expression.   
 
