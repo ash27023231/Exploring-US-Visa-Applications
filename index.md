@@ -8,7 +8,7 @@ In this project we have made visualizations by which we can see a trend in the n
 
 2. [Screencast](https://drive.google.com/open?id=1h2e0DlhEO2k4XbED2fXFwFDNtSV0ULAk)
  
-3. [Process Book](https://docs.google.com/presentation/d/1XNd-dSseqlaVVg-gSXqlNIz2Slu0swGaUGO1_7jmgsQ/edit#slide=id.g2a011bb1f0_0_14)
+3. [Process Book](https://github.com/sanketd11/dataviscourse-pr-US-VISA-Applications-Visualization/blob/master/_PROCESS%20BOOK%20FINAL.pdf)
 
 ## Data Source + Processing
 
